@@ -29,7 +29,7 @@ A **LOT** of **vibing** has been going on in here, especially for this port over
 - Choose your `fancytrackerFF.xpi` file
 - Click `"Add"` when prompted
 
-#### I'll post it on the store at a later date so it can get signed... for now just use a developer firefox version.
+#### It should soon be available on the Mozilla Extensions "store"... hopefully
 
 ## Gallery
 
