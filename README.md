@@ -26,7 +26,7 @@ A **LOT** of **vibing** has been going on in here, especially for this port over
 - Open `about:addons` in Firefox
 - Click the gear icon (⚙️) at top right
 - Select `"Install Add-on From File..."`
-- Choose your `fancytrackerFF.xpi` file
+- Choose your `FancyTracker-FF.zip` file
 - Click `"Add"` when prompted
 
 #### It should soon be available on the Mozilla Extensions "store"... hopefully
