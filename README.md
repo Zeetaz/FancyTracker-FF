@@ -8,11 +8,10 @@ A **LOT** of **vibing** has been going on in here, especially for this port over
 
 **Known issues in FF release:**
 1. **Import/Export of blocked URL's / listeners is broken.**
-2. **Icon is busted - idk think it's due to not being signed yet.**
 
 ## Chrome version will be prioritized:
 ### [FancyTracker - Chrome](https://github.com/Zeetaz/FancyTracker)</br></br>
-## Installation (Requires Firefox Developer Edition)
+## Installation (Requires **Firefox Developer Edition**)
 
 #### 1. Allow unsigned extensions (required for self-distributed extensions)
 
