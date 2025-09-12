@@ -6,12 +6,17 @@ This is a modern adaptation of the original [postMessage-tracker](https://github
 
 A **LOT** of **vibing** has been going on in here, especially for this port over to firefox due to repeated requests.
 
+## Installation - Available on Mozilla Add-Ons
+
+[https://addons.mozilla.org/en-US/firefox/addon/fancytracker-ff/](https://addons.mozilla.org/en-US/firefox/addon/fancytracker-ff/)
+
 **Known issues in FF release:**
 1. **Import/Export of blocked URL's / listeners is broken.**
 
 ## Chrome version will be prioritized:
 ### [FancyTracker - Chrome](https://github.com/Zeetaz/FancyTracker)</br></br>
-## Installation (Requires **Firefox Developer Edition**)
+
+## Manual Installation (Requires **Firefox Developer Edition**)
 
 #### 1. Allow unsigned extensions (required for self-distributed extensions)
 
@@ -29,7 +34,7 @@ A **LOT** of **vibing** has been going on in here, especially for this port over
 - Choose your `FancyTracker-FF.zip` file
 - Click `"Add"` when prompted
 
-#### It should soon be available on the Mozilla Extensions "store"... hopefully
+~#### It should soon be available on the Mozilla Extensions "store"... hopefully~
 
 ## Gallery
 
